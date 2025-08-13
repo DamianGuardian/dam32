@@ -12,7 +12,7 @@ const App = () => {
           source={require('./assets/foto.png')} 
           style={styles.image} 
         />
-        <Text style={styles.text}>Hola, soy Damian Elias y esta es mi bibliografia naci el 31 de octubre del 2002 tengo 22 años y naci en el estado de mexico.</Text>
+        <Text style={styles.text}>Hola, soy Damian Elias y esta es mi bibliografia naci el 31 de octubre del 2002 tengo 22 años y naci en el estado de mexico me gustan los perros y mi cimida favorita son las chimichangas.</Text>
       </View>
     </View>
   );
