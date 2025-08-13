@@ -5,7 +5,7 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: '#0c0f1a',  // azul oscuro elegante
     alignItems: 'center',
-    justifyContent: 'center',
+    justifyContent: 'center' ,
     paddingHorizontal: 20,
   },
   title: {
