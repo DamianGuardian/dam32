@@ -3,13 +3,13 @@ import { StyleSheet } from 'react-native';
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#f5f7fa', // Fondo claro
+    backgroundColor: '#f5f7fa', 
     padding: 20,
   },
   title: {
     fontSize: 28,
     fontWeight: 'bold',
-    color: '#6c5ce7', // Morado
+    color: '#6c5ce7', 
     textAlign: 'center',
     marginBottom: 20,
     textTransform: 'uppercase',
